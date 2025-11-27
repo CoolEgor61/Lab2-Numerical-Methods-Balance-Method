@@ -1,0 +1,1 @@
+# Lab2-Numerical-Methods-Balance-Method
