@@ -1,1 +1,1 @@
-# Lab2-Numerical-Methods-Balance-Method
+# Lab1-Numerical-Methods-RK45
